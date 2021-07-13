@@ -104,7 +104,7 @@
     "dotenv": "10.0.0",
     "geojson-precision": "1.0.0",
     "http-proxy-middleware": "2.0.1",
-    "husky": "6.0.0",
+    "husky": "7.0.1",
     "jest-puppeteer": "5.0.3",
     "lint-staged": "11.0.0",
     "migrate-mongo": "8.2.2",
