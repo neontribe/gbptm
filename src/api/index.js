@@ -59,6 +59,7 @@ const apollo = new ApolloServer({
         });
       });
     }
+    console.log(user);
     return {
       user,
     };
